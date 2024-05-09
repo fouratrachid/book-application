@@ -56,14 +56,17 @@ Book Social Network provides users with features such as user registration, secu
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/fouratrachid/book-application/blob/main/LICENSE) file for details.
 
+<!--
 ## Getting Started
 
 To get started with the Book Social Network project, follow the setup instructions in the respective directories:
 
 - [Backend Setup Instructions](backend/README.md)
 - [Frontend Setup Instructions](frontend/README.md)
+-->
+
 
 ## Contributors
 
